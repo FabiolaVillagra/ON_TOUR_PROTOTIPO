@@ -1,23 +1,56 @@
-# ON TOUR – Plataforma de Gestión de Giras Escolares
+# ON TOUR — Proyecto de integración
 
-Este repositorio contiene el desarrollo del prototipo funcional **ON TOUR**, una plataforma web creada por estudiantes de Ingeniería en Informática de Duoc UC para facilitar la organización de giras de estudio.
+Repositorio para el proyecto académico **ON TOUR**, desarrollado por Fabiola Villagra y Emily Rupay, aplicando control de versiones con Git y GitHub para organizar, trazar y consolidar entregables técnicos y colaborativos.
 
-## 📌 Objetivo del proyecto
+---
 
-Digitalizar y centralizar la gestión de viajes escolares, incluyendo aportes financieros, documentación, actividades, y comunicación con apoderados.
+## 📌 Estructura de ramas
 
-## 📁 Estructura del repositorio
+Este repositorio fue organizado en ramas según responsabilidades individuales y colaborativas:
 
-(ver estructura de carpetas en la presentación final)
+| Rama                  | Responsable(s)             | Descripción                                               |
+|-----------------------|----------------------------|------------------------------------------------------------|
+| `prototipo-ui`        | Fabiola Villagra           | Contiene el desarrollo del prototipo de interfaz visual     |
+| `pruebas-funcionales` | Emily Rupay                | Incluye pruebas funcionales aplicadas al sistema            |
+| `presentacion-final`  | Fabiola y Emily (ambas)    | Contiene materiales de apoyo para la presentación final     |
+| `main`                | Consolidado (por Fabiola)  | Rama principal que refleja los merges realizados            |
 
-## 🛠️ Tecnologías utilizadas
+---
 
-- Prototipado: Balsamiq, Figma
-- Colaboración: GitHub
-- Documentación: Excel, Word, Canva
+## 📝 Documentación por rama
 
-## 👥 Autoras
+Cada rama contiene un archivo `.txt` como evidencia de participación técnica, con comentarios que explican el propósito y la autoría del contenido. Esta trazabilidad fue clave para la presentación, revisión y evaluación del trabajo en equipo.
 
-- Fabiola Villagra  
-- Emily Rupay  
-**Duoc UC – Ingeniería en Informática, 2025**
+---
+
+## 🔁 Control de versiones aplicado
+
+Durante el desarrollo se utilizaron los siguientes comandos y prácticas:
+
+- `git checkout`, `git add`, `git commit`, `git push`, `git pull`, `git merge`
+- Resolución de conflictos con editores como Vim
+- Trabajo en paralelo, consolidación en `main` y mantenimiento de historial limpio
+- Documentación descriptiva en archivos y mensajes de commit claros
+
+---
+
+## 🎯 Objetivo del repositorio
+
+Simular una entrega técnica profesional utilizando Git y GitHub como herramientas de colaboración, trazabilidad y control de versiones, respetando buenas prácticas de desarrollo y documentación.
+
+---
+
+## 🚀 Credenciales del equipo
+
+**Fabiola Villagra**  
+Duoc UC — Ingeniería en Informática  
+Responsable de prototipo y consolidación en Git
+
+**Emily Rupay**  
+Duoc UC — Ingeniería en Informática  
+Responsable de pruebas funcionales y coautora de presentación
+
+---
+
+*Este repositorio es parte de una entrega académica desarrollada durante el primer semestre del segundo año de la carrera de Ingeniería en Informática.*
+Ingeneria en Software .
