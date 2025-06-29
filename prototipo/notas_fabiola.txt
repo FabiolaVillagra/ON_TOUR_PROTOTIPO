@@ -1,0 +1,6 @@
+-e "# Archivo de trazabilidad individual para la rama prototipo-ui\n# Responsable: Fabiola Villagra\n\nEste archivo representa la responsabilidad de Fabiola Villagra en el desarrollo del prototipo de interfaz de usuario de alta fidelidad para el sistema ON TOUR." 
+# Archivo de trazabilidad individual para la rama prototipo-ui
+# Responsable: Fabiola Villagra
+
+Este archivo representa la responsabilidad de Fabiola Villagra en el desarrollo del prototipo de interfaz de usuario de alta fidelidad para el sistema ON TOUR.
+
