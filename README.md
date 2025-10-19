@@ -1,56 +1,16 @@
-# ON TOUR — Proyecto de integración
+# React + Vite
 
-Repositorio para el proyecto académico **ON TOUR**, desarrollado por Fabiola Villagra y Emily Rupay, aplicando control de versiones con Git y GitHub para organizar, trazar y consolidar entregables técnicos y colaborativos.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 📌 Estructura de ramas
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Este repositorio fue organizado en ramas según responsabilidades individuales y colaborativas:
+## React Compiler
 
-| Rama                  | Responsable(s)             | Descripción                                               |
-|-----------------------|----------------------------|------------------------------------------------------------|
-| `prototipo-ui`        | Fabiola Villagra           | Contiene el desarrollo del prototipo de interfaz visual     |
-| `pruebas-funcionales` | Emily Rupay                | Incluye pruebas funcionales aplicadas al sistema            |
-| `presentacion-final`  | Fabiola y Emily (ambas)    | Contiene materiales de apoyo para la presentación final     |
-| `main`                | Consolidado (por Fabiola)  | Rama principal que refleja los merges realizados            |
+The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
----
+## Expanding the ESLint configuration
 
-## 📝 Documentación por rama
-
-Cada rama contiene un archivo `.txt` como evidencia de participación técnica, con comentarios que explican el propósito y la autoría del contenido. Esta trazabilidad fue clave para la presentación, revisión y evaluación del trabajo en equipo.
-
----
-
-## 🔁 Control de versiones aplicado
-
-Durante el desarrollo se utilizaron los siguientes comandos y prácticas:
-
-- `git checkout`, `git add`, `git commit`, `git push`, `git pull`, `git merge`
-- Resolución de conflictos con editores como Vim
-- Trabajo en paralelo, consolidación en `main` y mantenimiento de historial limpio
-- Documentación descriptiva en archivos y mensajes de commit claros
-
----
-
-## 🎯 Objetivo del repositorio
-
-Simular una entrega técnica profesional utilizando Git y GitHub como herramientas de colaboración, trazabilidad y control de versiones, respetando buenas prácticas de desarrollo y documentación.
-
----
-
-## 🚀 Credenciales del equipo
-
-**Fabiola Villagra**  
-Duoc UC — Ingeniería en Informática  
-Responsable de prototipo y consolidación en Git
-
-**Emily Rupay**  
-Duoc UC — Ingeniería en Informática  
-Responsable de pruebas funcionales y coautora de presentación
-
----
-
-*Este repositorio es parte de una entrega académica desarrollada durante el primer semestre del segundo año de la carrera de Ingeniería en Informática.*
-Ingeneria en Software .
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
